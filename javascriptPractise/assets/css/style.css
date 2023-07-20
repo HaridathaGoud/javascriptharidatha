@@ -1,0 +1,13 @@
+body{
+    background-color:cadetblue;
+}
+
+.nav{
+    background-color: antiquewhite;
+    --bs-nav-link-color: rgb(240, 14, 228);
+}
+
+.nav-item1{
+    margin-right: 740px;
+    margin: left 50px !important;
+}
